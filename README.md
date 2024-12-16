@@ -1,2 +1,5 @@
-# Rimba-dan-Hanung
-In proyek kami
+# Proyek Informatika kelas IX-B
+Nama kelompok:
+Rimba Rabbi Rabbani
+Hanung Bramantyo
+
