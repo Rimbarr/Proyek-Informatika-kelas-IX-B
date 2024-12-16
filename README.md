@@ -1,2 +1,2 @@
 # Rimba-dan-Hanung
-In proyek kami
+Proyek Rimba dan hanung
